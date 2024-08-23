@@ -1,5 +1,8 @@
 # DigiFarm 
-#### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
+#### A simple ML and DL based website which recommends the best 
+- crop to grow
+- fertilizers to use
+- diseases caught by your crops
 
 ## MOTIVATION 
 - Farming is one of the major sectors that influences a country’s economic growth. 
